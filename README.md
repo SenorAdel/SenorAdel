@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=80&pause=1000&color=E8A045&center=true&vCenter=true&width=620&lines=Hi+there%2C+I%27m+Adel+Sulaiman+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=5EEAD4&center=true&vCenter=true&width=620&lines=Hi+there%2C+I%27m+Adel+Sulaiman+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=50&pause=5000&color=9B72CF&center=true&vCenter=true&width=260&lines=aka+Senor+Adel" alt="Nickname" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=5000&color=9B72CF&center=true&vCenter=true&width=260&lines=aka+Senor+Adel" alt="Nickname" />
 </p>
 
 
