@@ -21,12 +21,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 I'm a 20-year-old **state-certified computer scientist** (multimedia).
-- 💼 Currently looking for an apprenticeship as an **Application Developer** (Fachinformatiker für Anwendungsentwicklung).
-- 💻 I have hands-on experience in **Programming, Automation, and Design**.
-- 🛠️ I love working in a **Linux** environment with terminals and scripting.
-- 💬 Ask me about **C#, Godot, and 3D Modeling (Blender)**.
-- 📫 Reach out to me: **info@adelsulaiman.com**
+I’m 20 years old and bring three years of education as a certified IT specialist (Multimedia). Through personal projects and an internship, I’ve gained hands-on experience in programming, automation, and design. Now I’m looking for an apprenticeship in application development to keep growing my code and design skills in a team.
 
 ---
 
@@ -55,17 +50,3 @@
   <img src="https://img.shields.io/badge/Networking-05122A?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenorAdel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenorAdel&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenorAdel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
