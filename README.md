@@ -1,6 +1,10 @@
-<h1 align="center">Hi there, I'm Adel Sulaiman (aka Senor Adel) 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=80&pause=1000&color=E8A045&center=true&vCenter=true&width=620&lines=Hi+there%2C+I%27m+Adel+Sulaiman+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=50&pause=5000&color=9B72CF&center=true&vCenter=true&width=260&lines=aka+Senor+Adel" alt="Nickname" />
+</p>
 
-<h3 align="center">A state-certified computer scientist (multimedia) passionate about Code & Design</h3>
 
 <p align="center">
   <a href="https://adelsulaiman.com">
