@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=5EEAD4&center=true&vCenter=true&width=620&lines=Hi+there%2C+I%27m+Adel+Sulaiman+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=5EEAD4&center=true&vCenter=true&width=620&lines=Hi+there%2C+I%27m+Adel+Sulaiman" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=5000&color=9B72CF&center=true&vCenter=true&width=260&lines=aka+Senor+Adel" alt="Nickname" />
@@ -19,7 +19,7 @@
   <a href="mailto:info@adelsulaiman.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: S_n." />
+  <img src="https://img.shields.io/badge/Discord-S__n.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: S_n." />
 </p>
 
 ---
